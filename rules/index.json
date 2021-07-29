@@ -1,0 +1,10 @@
+{
+    "default": {
+
+    },
+    "filterCsvData": {
+        "lookupKey" : {
+            "type" : "string"
+        }
+    }
+}
